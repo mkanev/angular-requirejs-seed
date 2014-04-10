@@ -1,4 +1,6 @@
 define([], function() {
+  "use strict";
+
 	return ['$scope', '$http', function($scope, $http) {
 		// You can access the scope of the controller from here
 		$scope.welcomeMessage = 'hey this is myctrl2.js!';
