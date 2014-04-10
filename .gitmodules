@@ -1,0 +1,3 @@
+[submodule "submodules/form-builder"]
+	path = submodules/form-builder
+	url = git@github.com:mkanev/angular-form-builder.git
